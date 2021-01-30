@@ -1,0 +1,888 @@
+waypoints:
+  - name: sta1
+    frame_id: map
+    pose:
+      position:
+       x:  6
+       y: 18
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.98
+       w: 0.18 
+  - name: sta2
+    frame_id: map
+    pose:
+      position:
+       x: -3
+       y: 18
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.98
+       w: 0.21 
+  - name: sta3
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 12
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.97
+       w: 0.22 
+  - name: sta4
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 12
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.97
+       w: 0.22 
+  - name: sta5
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 12
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.97
+       w: 0.22 
+  - name: sta6
+    frame_id: map
+    pose:
+      position:
+       x: -10
+       y: 12
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.97
+       w: 0.24 
+  - name: sta7
+    frame_id: map
+    pose:
+      position:
+       x: -10
+       y: 12
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.97
+       w: 0.24 
+  - name: sta8
+    frame_id: map
+    pose:
+      position:
+       x: -10
+       y: 12
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.97
+       w: 0.24 
+  - name: sta9
+    frame_id: map
+    pose:
+      position:
+       x: -10
+       y: 11
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.49
+       w: 0.26 
+  - name: sta10
+    frame_id: map
+    pose:
+      position:
+       x: -10
+       y: 11
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.49
+       w: 0.26 
+  - name: sta11
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 11
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.51
+       w: 0.27 
+  - name: sta12
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 11
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.51
+       w: 0.27 
+  - name: sta13
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 11
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.51
+       w: 0.27 
+  - name: sta14
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 10
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.50
+       w: 0.27 
+  - name: sta15
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 10
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.50
+       w: 0.27 
+  - name: sta16
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 10
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.50
+       w: 0.27 
+  - name: sta17
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 10
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.50
+       w: 0.27 
+  - name: sta18
+    frame_id: map
+    pose:
+      position:
+       x: -9
+       y: 10
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.50
+       w: 0.27 
+  - name: sta19
+    frame_id: map
+    pose:
+      position:
+       x: -12
+       y: 21
+       z: 0
+      orientation:
+       x: 0.00
+       y: -0.00
+       z: 0.54
+       w: 0.30 
+  - name: sta20
+    frame_id: map
+    pose:
+      position:
+       x: -21
+       y: 23
+       z: 0
+      orientation:
+       x: 0.00
+       y: -0.00
+       z: 0.48
+       w: 0.26 
+  - name: sta21
+    frame_id: map
+    pose:
+      position:
+       x: -22
+       y: 23
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.97
+       w: 0.23 
+  - name: sta22
+    frame_id: map
+    pose:
+      position:
+       x: -25
+       y: 21
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.98
+       w: 0.20 
+  - name: sta23
+    frame_id: map
+    pose:
+      position:
+       x: -31
+       y: 21
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 1.00
+       w: 0.01 
+  - name: sta24
+    frame_id: map
+    pose:
+      position:
+       x: -31
+       y: 24
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 1.00
+       w: 0.00 
+  - name: sta25
+    frame_id: map
+    pose:
+      position:
+       x: -31
+       y: 25
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 1.00
+       w: 0.00 
+  - name: sta26
+    frame_id: map
+    pose:
+      position:
+       x: -33
+       y: 26
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 1.00
+       w: 0.03 
+  - name: sta27
+    frame_id: map
+    pose:
+      position:
+       x: -34
+       y: 25
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 1.00
+       w: 0.07 
+  - name: sta28
+    frame_id: map
+    pose:
+      position:
+       x: -36
+       y: 24
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.99
+       w: 0.11 
+  - name: sta29
+    frame_id: map
+    pose:
+      position:
+       x: -36
+       y: 22
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.99
+       w: 0.13 
+  - name: sta30
+    frame_id: map
+    pose:
+      position:
+       x: -39
+       y: 23
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.98
+       w: 0.20 
+  - name: sta31
+    frame_id: map
+    pose:
+      position:
+       x: -40
+       y: 23
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.97
+       w: 0.23 
+  - name: sta32
+    frame_id: map
+    pose:
+      position:
+       x: -39
+       y: 25
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.98
+       w: 0.18 
+  - name: sta33
+    frame_id: map
+    pose:
+      position:
+       x: -44
+       y: 25
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.53
+       w: 0.29 
+  - name: sta34
+    frame_id: map
+    pose:
+      position:
+       x: -47
+       y: 25
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.60
+       w: 0.34 
+  - name: sta35
+    frame_id: map
+    pose:
+      position:
+       x: -50
+       y: 21
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.71
+       w: 0.44 
+  - name: sta36
+    frame_id: map
+    pose:
+      position:
+       x: -49
+       y: 19
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.72
+       w: 0.45 
+  - name: sta37
+    frame_id: map
+    pose:
+      position:
+       x: -51
+       y: 18
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.75
+       w: 0.49 
+  - name: sta38
+    frame_id: map
+    pose:
+      position:
+       x: -51
+       y: 11
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.76
+       w: 0.62 
+  - name: sta39
+    frame_id: map
+    pose:
+      position:
+       x: -50
+       y: 11
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.76
+       w: 0.62 
+  - name: sta40
+    frame_id: map
+    pose:
+      position:
+       x: -51
+       y:  7
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.71
+       w: 0.71 
+  - name: sta41
+    frame_id: map
+    pose:
+      position:
+       x: -51
+       y:  6
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.70
+       w: 0.72 
+  - name: sta42
+    frame_id: map
+    pose:
+      position:
+       x: -51
+       y:  2
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.60
+       w: 0.79 
+  - name: sta43
+    frame_id: map
+    pose:
+      position:
+       x: -51
+       y: -0
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.54
+       w: 0.82 
+  - name: sta44
+    frame_id: map
+    pose:
+      position:
+       x: -44
+       y: -12
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.71
+       w: 0.71 
+  - name: sta45
+    frame_id: map
+    pose:
+      position:
+       x: -49
+       y: -14
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.71
+       w: 0.71 
+  - name: sta46
+    frame_id: map
+    pose:
+      position:
+       x: -49
+       y: -17
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.64
+       w: 0.76 
+  - name: sta47
+    frame_id: map
+    pose:
+      position:
+       x: -47
+       y: -26
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.34
+       w: 0.90 
+  - name: sta48
+    frame_id: map
+    pose:
+      position:
+       x: -43
+       y: -27
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.23
+       w: 0.94 
+  - name: sta49
+    frame_id: map
+    pose:
+      position:
+       x: -41
+       y: -27
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.17
+       w: 0.95 
+  - name: sta50
+    frame_id: map
+    pose:
+      position:
+       x: -40
+       y: -27
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.14
+       w: 0.96 
+  - name: sta51
+    frame_id: map
+    pose:
+      position:
+       x: -36
+       y: -29
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.12
+       w: 0.99 
+  - name: sta52
+    frame_id: map
+    pose:
+      position:
+       x: -35
+       y: -30
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.08
+       w: 1.00 
+  - name: sta53
+    frame_id: map
+    pose:
+      position:
+       x: -25
+       y: -27
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.05
+       w: 1.00 
+  - name: sta54
+    frame_id: map
+    pose:
+      position:
+       x: -24
+       y: -27
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.00
+       w: 1.00 
+  - name: sta55
+    frame_id: map
+    pose:
+      position:
+       x: -24
+       y: -26
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.00
+       w: 1.00 
+  - name: sta56
+    frame_id: map
+    pose:
+      position:
+       x: -23
+       y: -29
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.00
+       w: 1.00 
+  - name: sta57
+    frame_id: map
+    pose:
+      position:
+       x: -22
+       y: -31
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.01
+       w: 1.00 
+  - name: sta58
+    frame_id: map
+    pose:
+      position:
+       x: -21
+       y: -31
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.00
+       w: 1.00 
+  - name: sta59
+    frame_id: map
+    pose:
+      position:
+       x: -20
+       y: -28
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.03
+       w: 1.00 
+  - name: sta60
+    frame_id: map
+    pose:
+      position:
+       x: -20
+       y: -27
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.03
+       w: 1.00 
+  - name: sta61
+    frame_id: map
+    pose:
+      position:
+       x: -19
+       y: -27
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.07
+       w: 1.00 
+  - name: sta62
+    frame_id: map
+    pose:
+      position:
+       x: -19
+       y: -28
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.06
+       w: 1.00 
+  - name: sta63
+    frame_id: map
+    pose:
+      position:
+       x: -17
+       y: -28
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.18
+       w: 0.98 
+  - name: sta64
+    frame_id: map
+    pose:
+      position:
+       x: -16
+       y: -27
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.16
+       w: 0.99 
+  - name: sta65
+    frame_id: map
+    pose:
+      position:
+       x: -14
+       y: -28
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.09
+       w: 1.00 
+  - name: sta66
+    frame_id: map
+    pose:
+      position:
+       x: -11
+       y: -28
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.00
+       w: 1.00 
+  - name: sta67
+    frame_id: map
+    pose:
+      position:
+       x: -15
+       y: -31
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: 0.10
+       w: 0.99 
+  - name: sta68
+    frame_id: map
+    pose:
+      position:
+       x: -42
+       y: 21
+       z: 0
+      orientation:
+       x: 0.00
+       y: 0.00
+       z: -0.54
+       w: 0.30 
+trajectories:
+  - name: go_to_room1
+    waypoints:
+    - sta1
+    - sta2
+    - sta3
+    - sta4
+    - sta5
+    - sta6
+    - sta7
+    - sta8
+    - sta9
+    - sta10
+    - sta11
+    - sta12
+    - sta13
+    - sta14
+    - sta15
+    - sta16
+    - sta17
+    - sta18
+    - sta19
+    - sta20
+    - sta21
+    - sta22
+    - sta23
+    - sta24
+    - sta25
+    - sta26
+    - sta27
+    - sta28
+    - sta29
+    - sta30
+    - sta31
+    - sta32
+    - sta33
+    - sta34
+    - sta35
+    - sta36
+    - sta37
+    - sta38
+    - sta39
+    - sta40
+    - sta41
+    - sta42
+    - sta43
+    - sta44
+    - sta45
+    - sta46
+    - sta47
+    - sta48
+    - sta49
+    - sta50
+    - sta51
+    - sta52
+    - sta53
+    - sta54
+    - sta55
+    - sta56
+    - sta57
+    - sta58
+    - sta59
+    - sta60
+    - sta61
+    - sta62
+    - sta63
+    - sta64
+    - sta65
+    - sta66
+    - sta67
+    - sta68
